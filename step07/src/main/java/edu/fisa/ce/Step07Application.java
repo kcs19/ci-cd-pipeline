@@ -9,5 +9,4 @@ public class Step07Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Step07Application.class, args);
 	}
-
 }
